@@ -1,3 +1,5 @@
+<antCode language="javascript">
+//
 (function(){
 "use strict";
 
@@ -1210,3 +1212,5 @@ if(document.readyState === "loading"){
 }
 
 })();
+//
+</antCode>
